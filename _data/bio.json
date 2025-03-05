@@ -13,12 +13,6 @@
       { "network": "linkedin", "username": "mollymaluhia", "url": "" }
     ]
   },
-  "interests": [
-    { "name": "Analisis de datos" },
-    { "name": "Automatizacion" },
-    { "name": "Quantum Computing" },
-    { "name": "Motores graficos" }
-  ],
   "habilidades": [
     {
       "name": "Languages and Frameworks",

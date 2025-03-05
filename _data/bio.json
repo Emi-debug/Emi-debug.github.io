@@ -6,21 +6,21 @@
     "email": "erojas.da@gmail.com",
     "phone": "3625606346",
     "website": "https://mmaluhia.github.io",
-    "summary": "Spy un estudiante de la carrera Lic. en Analisis de Datos, en la Universidad de San Luis, esperando recibirme para 2029.",
+    "summary": "Soy un estudiante de la carrera Lic. en Analisis de Datos, en la Universidad de San Luis, esperando recibirme para 2029.",
     "location": { "direccion": "", "postalCode": "3500", "ciudad": "Barranqueras", "countryCode": "Argentina", "region": "Sudamerica" },
     "profiles": [
       { "network": "github", "username": "Emi-debug", "url": "https://github.com/Emi-debug" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "" }
     ]
   },
-  "interests": [
+  "intereses": [
     { "name": "Analisis de datos" },
     { "name": "Automatizacion" },
     { "name": "Quantum Computing" },
     { "name": "Robotics" },
     { "name": "Motores graficos" }
   ],
-  "skills": [
+  "habilidades": [
     {
       "name": "Languages and Frameworks",
       "keywords": [ "Javascript", "Python", "Django","React"]
@@ -55,7 +55,7 @@
       "summary": "Python, django, POO, Bases de datos, SQL. "
     }
   ],
-  "references": [
+  "referencias": [
     {
       "name": "Disponible si es requerido"
     }

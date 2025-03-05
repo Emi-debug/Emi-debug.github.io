@@ -13,7 +13,7 @@
       { "network": "linkedin", "username": "mollymaluhia", "url": "" }
     ]
   },
-  "intereses": [
+  "interests": [
     { "name": "Analisis de datos" },
     { "name": "Automatizacion" },
     { "name": "Quantum Computing" },
